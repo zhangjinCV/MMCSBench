@@ -2,15 +2,15 @@
 
 **(Updating slowly, but keep going)**
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![arXiv](https://img.shields.io/badge/arXiv-2024.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXXX)
+<!--[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/)-->
+<!--[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![arXiv](https://img.shields.io/badge/arXiv-2024.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXXX)-->
 
 ## 📋 Overview
 
 **MMCSBench** (Multi-Modal Camouflage Scene Benchmark) is a comprehensive benchmark designed to evaluate Large Vision-Language Models (LVLMs) on fine-grained understanding tasks in camouflage scenes. This benchmark addresses the challenging problem of object detection, recognition, and reasoning in natural camouflage environments.
 
-### Key Features
+<!--### Key Features
 
 - 🎯 **Fine-grained Evaluation**: Comprehensive assessment of LVLMs on camouflage scene understanding
 - 🌿 **Diverse Scenarios**: Multiple camouflage types including natural, artificial, and adaptive camouflage
@@ -201,6 +201,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions about the benchmark or issues with the code, please open an issue on GitHub or contact the authors directly.
 
----
+----->
 
 **Note**: This repository contains the official implementation of the MMCSBench benchmark presented at NeurIPS 2025. For the latest updates and announcements, please watch this repository and check our project page.
