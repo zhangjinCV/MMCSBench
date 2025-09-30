@@ -1,6 +1,6 @@
 # MMCSBench: A Fine-Grained Benchmark for Large Vision-Language Models in Camouflage Scenes
 
-**(Updating slowly, but keep going)**
+**(Updating slowly, but keep going)** 国庆假期愉快
 
 ## Dataset Path
 
@@ -8,9 +8,13 @@
 
 **Kaggle**: https://www.kaggle.com/datasets/f2218284b51011e4e27d4c4d8b41eff771d0ec734c535a7a0b94bb2a02058a46?resource=download
 
-<!--[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/)-->
-<!--[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![arXiv](https://img.shields.io/badge/arXiv-2024.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXXX)-->
+## How to use
+
+TODO
+
+## Results
+
+TODO
 
 ## 📋 Overview
 
