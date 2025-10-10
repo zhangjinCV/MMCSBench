@@ -1,6 +1,6 @@
 # MMCSBench: A Fine-Grained Benchmark for Large Vision-Language Models in Camouflage Scenes
 
-**(Updating slowly, but keep going)** 国庆假期愉快
+**(Updating slowly, but keep going)** 
 
 ## Dataset Path
 
