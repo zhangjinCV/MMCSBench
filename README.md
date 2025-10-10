@@ -18,9 +18,6 @@ TODO
 
 ![Results](figs/performance.png)
 
-## 📋 Overview
-
-**MMCSBench** (Multi-Modal Camouflage Scene Benchmark) is a comprehensive benchmark designed to evaluate Large Vision-Language Models (LVLMs) on fine-grained understanding tasks in camouflage scenes. This benchmark addresses the challenging problem of object detection, recognition, and reasoning in natural camouflage environments.
 
 <!--### Key Features
 
